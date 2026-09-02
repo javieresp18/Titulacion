@@ -1,0 +1,11 @@
+﻿ValorOriginal,ValorNormalizado,CategoriaConsolidada,EstadoInclusion,JustificacionMetodologica,NumeroRegistros,CostoTotalUSD,ParticipacionPorcentual
+ACEITE,ACEITE,ACEITE,INCLUIDA,"Decision operativa conservadora: sin evidencia de pertenecer a categorias explicitamente excluidas, se mantiene en el analisis agregado (ver bitacora_decisiones_metodologicas.md).",490,617983.51,2.753
+FERRETERIA,FERRETERIA,FERRETERIA,INCLUIDA,Categoria listada explicitamente en el apartado 3.4 como pertinente al mantenimiento naval.,8591,1935083.87,8.6204
+FILTROS,FILTROS,FILTROS,INCLUIDA,Categoria listada explicitamente en el apartado 3.4 como pertinente al mantenimiento naval.,473,198637.99,0.8849
+GRASAS,GRASAS,GRASAS,INCLUIDA,"Decision operativa: funcionalmente equivalente a ACEITES/lubricacion de maquinaria, dentro del alcance de mantenimiento tecnico (ver bitacora_decisiones_metodologicas.md).",12,1609.85,0.0072
+MATERIALES DE LIMPIEZA,MATERIALES DE LIMPIEZA,MATERIALES DE LIMPIEZA,EXCLUIDA,"Decision operativa: insumo ajeno al mantenimiento tecnico naval, analogo a las categorias excluidas literalmente (ver bitacora_decisiones_metodologicas.md).",977,77576.83,0.3456
+PINTURAS,PINTURAS,PINTURAS,EXCLUIDA,"Categoria listada explicitamente en el apartado 3.4 como ajena al mantenimiento naval (insumo de hotelera, oficina, salud o seguridad).",1660,843469.93,3.7575
+QUIMICOS,QUIMICOS,QUIMICOS,INCLUIDA,Categoria listada explicitamente en el apartado 3.4 como pertinente al mantenimiento naval.,542,178988.84,0.7974
+REPUESTOS ELECTRICOS,REPUESTOS ELECTRICOS,REPUESTOS ELECTRICOS,INCLUIDA,"Decision operativa conservadora: sin evidencia de pertenecer a categorias explicitamente excluidas, se mantiene en el analisis agregado (ver bitacora_decisiones_metodologicas.md).",215,192425.72,0.8572
+REPUESTOS MECANICOS,REPUESTOS MECANICOS,REPUESTOS MECANICOS,INCLUIDA,"Decision operativa conservadora: sin evidencia de pertenecer a categorias explicitamente excluidas, se mantiene en el analisis agregado (ver bitacora_decisiones_metodologicas.md).",3462,4893371.1,21.799
+SERVICIOS DE MANTENIMIENTO,SERVICIOS DE MANTENIMIENTO,SERVICIOS DE MANTENIMIENTO,INCLUIDA,Categoria listada explicitamente en el apartado 3.4 como pertinente al mantenimiento naval.,5238,13508551.9,60.1779

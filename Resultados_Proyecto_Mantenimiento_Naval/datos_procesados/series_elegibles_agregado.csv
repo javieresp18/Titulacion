@@ -1,0 +1,123 @@
+﻿Nivel,Serie,NumeroMesesObservados,NumeroMesesConCostoPositivo,Elegible,MotivoNoElegibilidad
+CATEGORIA,ACEITE,57,57,True,
+CATEGORIA,FERRETERIA,59,59,True,
+CATEGORIA,FILTROS,47,47,True,
+CATEGORIA,GRASAS,4,4,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+CATEGORIA,QUIMICOS,50,50,True,
+CATEGORIA,REPUESTOS ELECTRICOS,22,22,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+CATEGORIA,REPUESTOS MECANICOS,57,57,True,
+CATEGORIA,SERVICIOS DE MANTENIMIENTO,60,60,True,
+FLOTA,FLOTA_TOTAL,60,60,True,
+NAVE,NAVE_001,56,56,True,
+NAVE,NAVE_002,56,56,True,
+NAVE,NAVE_003,22,22,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE,NAVE_004,60,60,True,
+NAVE,NAVE_005,60,60,True,
+NAVE,NAVE_006,58,58,True,
+NAVE,NAVE_007,50,50,True,
+NAVE,NAVE_008,57,57,True,
+NAVE,NAVE_009,58,58,True,
+NAVE,NAVE_010,58,58,True,
+NAVE,NAVE_011,57,57,True,
+NAVE,NAVE_012,7,7,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE,NAVE_013,59,59,True,
+NAVE,NAVE_014,56,56,True,
+NAVE_CATEGORIA,NAVE_001 | ACEITE,26,26,True,
+NAVE_CATEGORIA,NAVE_001 | FERRETERIA,41,41,True,
+NAVE_CATEGORIA,NAVE_001 | FILTROS,8,8,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_001 | QUIMICOS,20,20,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_001 | REPUESTOS ELECTRICOS,5,5,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_001 | REPUESTOS MECANICOS,33,33,True,
+NAVE_CATEGORIA,NAVE_001 | SERVICIOS DE MANTENIMIENTO,55,55,True,
+NAVE_CATEGORIA,NAVE_002 | ACEITE,18,18,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_002 | FERRETERIA,46,46,True,
+NAVE_CATEGORIA,NAVE_002 | FILTROS,6,6,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_002 | GRASAS,1,1,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_002 | QUIMICOS,24,24,True,
+NAVE_CATEGORIA,NAVE_002 | REPUESTOS ELECTRICOS,6,6,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_002 | REPUESTOS MECANICOS,37,37,True,
+NAVE_CATEGORIA,NAVE_002 | SERVICIOS DE MANTENIMIENTO,56,56,True,
+NAVE_CATEGORIA,NAVE_003 | ACEITE,5,5,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_003 | FERRETERIA,6,6,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_003 | FILTROS,7,7,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_003 | REPUESTOS ELECTRICOS,1,1,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_003 | REPUESTOS MECANICOS,6,6,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_003 | SERVICIOS DE MANTENIMIENTO,20,20,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_004 | ACEITE,28,28,True,
+NAVE_CATEGORIA,NAVE_004 | FERRETERIA,38,38,True,
+NAVE_CATEGORIA,NAVE_004 | FILTROS,17,17,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_004 | QUIMICOS,21,21,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_004 | REPUESTOS ELECTRICOS,5,5,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_004 | REPUESTOS MECANICOS,34,34,True,
+NAVE_CATEGORIA,NAVE_004 | SERVICIOS DE MANTENIMIENTO,60,60,True,
+NAVE_CATEGORIA,NAVE_005 | ACEITE,10,10,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_005 | FERRETERIA,37,37,True,
+NAVE_CATEGORIA,NAVE_005 | FILTROS,18,18,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_005 | GRASAS,1,1,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_005 | QUIMICOS,10,10,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_005 | REPUESTOS ELECTRICOS,5,5,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_005 | REPUESTOS MECANICOS,32,32,True,
+NAVE_CATEGORIA,NAVE_005 | SERVICIOS DE MANTENIMIENTO,53,53,True,
+NAVE_CATEGORIA,NAVE_006 | ACEITE,15,15,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_006 | FERRETERIA,39,39,True,
+NAVE_CATEGORIA,NAVE_006 | FILTROS,14,14,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_006 | GRASAS,1,1,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_006 | QUIMICOS,8,8,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_006 | REPUESTOS ELECTRICOS,5,5,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_006 | REPUESTOS MECANICOS,27,27,True,
+NAVE_CATEGORIA,NAVE_006 | SERVICIOS DE MANTENIMIENTO,50,50,True,
+NAVE_CATEGORIA,NAVE_007 | ACEITE,21,21,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_007 | FERRETERIA,33,33,True,
+NAVE_CATEGORIA,NAVE_007 | FILTROS,4,4,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_007 | QUIMICOS,14,14,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_007 | REPUESTOS ELECTRICOS,3,3,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_007 | REPUESTOS MECANICOS,30,30,True,
+NAVE_CATEGORIA,NAVE_007 | SERVICIOS DE MANTENIMIENTO,50,50,True,
+NAVE_CATEGORIA,NAVE_008 | ACEITE,35,35,True,
+NAVE_CATEGORIA,NAVE_008 | FERRETERIA,41,41,True,
+NAVE_CATEGORIA,NAVE_008 | FILTROS,6,6,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_008 | QUIMICOS,20,20,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_008 | REPUESTOS ELECTRICOS,2,2,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_008 | REPUESTOS MECANICOS,30,30,True,
+NAVE_CATEGORIA,NAVE_008 | SERVICIOS DE MANTENIMIENTO,56,56,True,
+NAVE_CATEGORIA,NAVE_009 | ACEITE,11,11,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_009 | FERRETERIA,39,39,True,
+NAVE_CATEGORIA,NAVE_009 | FILTROS,14,14,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_009 | QUIMICOS,15,15,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_009 | REPUESTOS ELECTRICOS,5,5,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_009 | REPUESTOS MECANICOS,29,29,True,
+NAVE_CATEGORIA,NAVE_009 | SERVICIOS DE MANTENIMIENTO,57,57,True,
+NAVE_CATEGORIA,NAVE_010 | ACEITE,12,12,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_010 | FERRETERIA,33,33,True,
+NAVE_CATEGORIA,NAVE_010 | FILTROS,18,18,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_010 | GRASAS,2,2,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_010 | QUIMICOS,16,16,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_010 | REPUESTOS ELECTRICOS,6,6,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_010 | REPUESTOS MECANICOS,28,28,True,
+NAVE_CATEGORIA,NAVE_010 | SERVICIOS DE MANTENIMIENTO,53,53,True,
+NAVE_CATEGORIA,NAVE_011 | ACEITE,24,24,True,
+NAVE_CATEGORIA,NAVE_011 | FERRETERIA,37,37,True,
+NAVE_CATEGORIA,NAVE_011 | FILTROS,7,7,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_011 | QUIMICOS,28,28,True,
+NAVE_CATEGORIA,NAVE_011 | REPUESTOS ELECTRICOS,6,6,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_011 | REPUESTOS MECANICOS,38,38,True,
+NAVE_CATEGORIA,NAVE_011 | SERVICIOS DE MANTENIMIENTO,56,56,True,
+NAVE_CATEGORIA,NAVE_012 | FERRETERIA,5,5,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_012 | FILTROS,1,1,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_012 | REPUESTOS ELECTRICOS,2,2,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_012 | REPUESTOS MECANICOS,3,3,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_012 | SERVICIOS DE MANTENIMIENTO,7,7,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_013 | ACEITE,8,8,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_013 | FERRETERIA,31,31,True,
+NAVE_CATEGORIA,NAVE_013 | FILTROS,18,18,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_013 | QUIMICOS,11,11,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_013 | REPUESTOS ELECTRICOS,4,4,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_013 | REPUESTOS MECANICOS,24,24,True,
+NAVE_CATEGORIA,NAVE_013 | SERVICIOS DE MANTENIMIENTO,51,51,True,
+NAVE_CATEGORIA,NAVE_014 | ACEITE,15,15,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_014 | FERRETERIA,28,28,True,
+NAVE_CATEGORIA,NAVE_014 | FILTROS,21,21,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_014 | QUIMICOS,14,14,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_014 | REPUESTOS ELECTRICOS,5,5,False,No alcanza el minimo de meses observados/con costo positivo para conformar entrenamiento-validacion y prueba (umbral operativo: 18 y 6 meses).
+NAVE_CATEGORIA,NAVE_014 | REPUESTOS MECANICOS,29,29,True,
+NAVE_CATEGORIA,NAVE_014 | SERVICIOS DE MANTENIMIENTO,51,51,True,

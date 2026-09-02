@@ -1,0 +1,10 @@
+﻿Nivel,Serie,ModeloSeleccionado,Variable,SHAP_MediaAbsoluta
+CATEGORIA,ACEITE,GradientBoosting,MesNumerico,339.613401
+CATEGORIA,ACEITE,GradientBoosting,Trimestre,59.161537
+CATEGORIA,ACEITE,GradientBoosting,IndiceTemporal,1265.687936
+CATEGORIA,ACEITE,GradientBoosting,Lag1,2681.798113
+CATEGORIA,ACEITE,GradientBoosting,Lag2,1999.310267
+CATEGORIA,ACEITE,GradientBoosting,Lag3,1531.769792
+CATEGORIA,ACEITE,GradientBoosting,MediaMovil3,617.42051
+CATEGORIA,ACEITE,GradientBoosting,MediaMovil6,900.701263
+CATEGORIA,ACEITE,GradientBoosting,Lag12,1294.810522

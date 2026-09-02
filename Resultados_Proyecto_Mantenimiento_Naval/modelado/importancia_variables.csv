@@ -1,0 +1,10 @@
+﻿Nivel,Serie,ModeloSeleccionado,Variable,ImportanciaInterna,ImportanciaPermutacion
+CATEGORIA,ACEITE,GradientBoosting,MesNumerico,0.049748,606.153619
+CATEGORIA,ACEITE,GradientBoosting,Trimestre,0.003461,95.008189
+CATEGORIA,ACEITE,GradientBoosting,IndiceTemporal,0.158797,2455.022468
+CATEGORIA,ACEITE,GradientBoosting,Lag1,0.185205,3641.450722
+CATEGORIA,ACEITE,GradientBoosting,Lag2,0.187803,3175.474341
+CATEGORIA,ACEITE,GradientBoosting,Lag3,0.140556,2138.633649
+CATEGORIA,ACEITE,GradientBoosting,MediaMovil3,0.07842,914.916286
+CATEGORIA,ACEITE,GradientBoosting,MediaMovil6,0.120848,1381.413301
+CATEGORIA,ACEITE,GradientBoosting,Lag12,0.075161,1929.784459
